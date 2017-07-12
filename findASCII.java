@@ -5,6 +5,10 @@ import javax.swing.JOptionPane;
 import javax.swing.UIManager;
 import javax.swing.plaf.FontUIResource;
 
+/*
+   Author: Shashwat Kapoor
+ */
+
 public class findASCII
 {
 	public static void changeJOP()
